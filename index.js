@@ -25,3 +25,10 @@ for (var i=0; i < flashcards.length; i++) {
 alert("you got " + score + "/" + flashcards.length)
 
 var score = 0;
+
+// var para = document.createElement ("p");
+// var node = document.createTextNode ("How many hours are there in a day?")
+// flashCardQuestion.appendChild(node);
+
+// var element = document.getElementById("");
+// element.appendChild(para);
